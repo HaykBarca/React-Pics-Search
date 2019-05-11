@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/HaykBarca/React-Pics-Search/static/css/main.32a1f30e.chunk.css",
-    "main.js": "/HaykBarca/React-Pics-Search/static/js/main.bbc1dd47.chunk.js",
-    "main.js.map": "/HaykBarca/React-Pics-Search/static/js/main.bbc1dd47.chunk.js.map",
-    "runtime~main.js": "/HaykBarca/React-Pics-Search/static/js/runtime~main.83c48862.js",
-    "runtime~main.js.map": "/HaykBarca/React-Pics-Search/static/js/runtime~main.83c48862.js.map",
-    "static/js/2.824d5390.chunk.js": "/HaykBarca/React-Pics-Search/static/js/2.824d5390.chunk.js",
-    "static/js/2.824d5390.chunk.js.map": "/HaykBarca/React-Pics-Search/static/js/2.824d5390.chunk.js.map",
-    "index.html": "/HaykBarca/React-Pics-Search/index.html",
-    "precache-manifest.8b9fc13e2ec20f6ddb165dc0cf41d80a.js": "/HaykBarca/React-Pics-Search/precache-manifest.8b9fc13e2ec20f6ddb165dc0cf41d80a.js",
-    "service-worker.js": "/HaykBarca/React-Pics-Search/service-worker.js",
-    "static/css/main.32a1f30e.chunk.css.map": "/HaykBarca/React-Pics-Search/static/css/main.32a1f30e.chunk.css.map"
+    "main.css": "/React-Pics-Search/static/css/main.32a1f30e.chunk.css",
+    "main.js": "/React-Pics-Search/static/js/main.bbc1dd47.chunk.js",
+    "main.js.map": "/React-Pics-Search/static/js/main.bbc1dd47.chunk.js.map",
+    "runtime~main.js": "/React-Pics-Search/static/js/runtime~main.391576fe.js",
+    "runtime~main.js.map": "/React-Pics-Search/static/js/runtime~main.391576fe.js.map",
+    "static/js/2.824d5390.chunk.js": "/React-Pics-Search/static/js/2.824d5390.chunk.js",
+    "static/js/2.824d5390.chunk.js.map": "/React-Pics-Search/static/js/2.824d5390.chunk.js.map",
+    "index.html": "/React-Pics-Search/index.html",
+    "precache-manifest.d11ac8f7c6ab9dbf31ff0192585f7889.js": "/React-Pics-Search/precache-manifest.d11ac8f7c6ab9dbf31ff0192585f7889.js",
+    "service-worker.js": "/React-Pics-Search/service-worker.js",
+    "static/css/main.32a1f30e.chunk.css.map": "/React-Pics-Search/static/css/main.32a1f30e.chunk.css.map"
   }
 }
